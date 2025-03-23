@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GDD_thai/static/css/main.5020846f.css",
-    "main.js": "/GDD_thai/static/js/main.2119750f.js",
+    "main.js": "/GDD_thai/static/js/main.11def052.js",
     "index.html": "/GDD_thai/index.html",
     "main.5020846f.css.map": "/GDD_thai/static/css/main.5020846f.css.map",
-    "main.2119750f.js.map": "/GDD_thai/static/js/main.2119750f.js.map"
+    "main.11def052.js.map": "/GDD_thai/static/js/main.11def052.js.map"
   },
   "entrypoints": [
     "static/css/main.5020846f.css",
-    "static/js/main.2119750f.js"
+    "static/js/main.11def052.js"
   ]
 }
